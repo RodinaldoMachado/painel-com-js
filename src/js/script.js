@@ -13,7 +13,7 @@ const processo = ['Regulagem de Maq', 'Setup', 'Teste e Amostra', 'Regulagem de 
 const pcp = ['Falta de Insumo', 'Falta de Venda', 'Decisão do PCP', 'Almoxarifado'];
 const producao = ['Falta de Operador', 'Limpeza de Maq', 'Organização e 5s'];
 const ferramentaria = ['Manut Mec Molde', 'Manut Ele Molde', 'Ajuste de Saida de Gás'];
-const materiaPrima = ['Falta de Material', 'Defeito de Material'];
+const materiaPrima = ['Falta de Material', 'Defeito de Material'] ;
 const qualidade = ['Decisão do CQ'];
 const paradas = [manutencao, pcp, producao, processo, ferramentaria, materiaPrima, qualidade]
 
